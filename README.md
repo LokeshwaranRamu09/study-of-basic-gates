@@ -88,7 +88,7 @@ Y= A⊕B
 ![Screenshot (15)](https://github.com/user-attachments/assets/c5ae2a2d-f8ed-416b-a7cb-2c3b4d75d09e)
 
 
-# OUTPUT WAVEFORM
+# RTL OUTPUT WAVEFORM
 
 
 
