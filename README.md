@@ -1,6 +1,6 @@
 ### NAME   : R.LOKESHWARAN
 ### REG NO : 24011606
-### EXPERIMENT 1 - study-of-basic-gates
+### EXPERIMENT 1 : study of logic gates
 
 **AIM:** 
 
@@ -84,7 +84,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ![WhatsApp Image 2024-10-27 at 22 38 40_2079a80b](https://github.com/user-attachments/assets/1585d8b6-34b5-4808-99ff-16005f4d8725)
 
 **RTL realization Output:** 
-![Screenshot (12)](https://github.com/user-attachments/assets/a8acb75f-b95f-4952-98b3-8b387673d26d)
+![Screenshot (13)](https://github.com/user-attachments/assets/fffd46fe-8f03-4405-b807-6fc813b99272)
+
 
 **RTL**
 ![Screenshot (8)](https://github.com/user-attachments/assets/0dc9230f-fba9-473f-91bf-95ac8f3f1ca0)
