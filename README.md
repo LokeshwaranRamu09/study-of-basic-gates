@@ -76,20 +76,20 @@ Y= A⊕B
 ### xnor(xnorgate,a,b);
 ### endmodule
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 24011606
  
 **Logic symbol & Truthtable**
 ![WhatsApp Image 2024-10-27 at 22 38 40_2079a80b](https://github.com/user-attachments/assets/1585d8b6-34b5-4808-99ff-16005f4d8725)
 
 **RTL realization Output:** 
-![Screenshot (13)](https://github.com/user-attachments/assets/fffd46fe-8f03-4405-b807-6fc813b99272)
+
+![Screenshot (14)](https://github.com/user-attachments/assets/364da707-db05-4762-a07d-59b1cd30d31e)
 
 
 **RTL**
-![Screenshot (8)](https://github.com/user-attachments/assets/0dc9230f-fba9-473f-91bf-95ac8f3f1ca0)
+
+![Screenshot (15)](https://github.com/user-attachments/assets/4d360bd9-d34e-4669-b1c8-2ea9a008bfb3)
+
 
 **Result:**
-
-To study and verify the truth table of logic gates in Quartus II using Verilog programming,verified successfully.
+studied and verify the truth table of logic gates in Quartus II using Verilog programming,verified successfully.
