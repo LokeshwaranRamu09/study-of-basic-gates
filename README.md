@@ -89,6 +89,7 @@ Y= A⊕B
 
  
 # LOGIC SYMBOL & TRUTHTABLE
+
 ![WhatsApp Image 2024-10-27 at 22 38 40_2079a80b](https://github.com/user-attachments/assets/1585d8b6-34b5-4808-99ff-16005f4d8725)
 
 # RTL REALIZATION  OUTPUT 
